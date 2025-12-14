@@ -4,14 +4,14 @@ For Takekawa Sensei's students.
 ### Why are Americans good at English?
 * because they use English 16 hours/day.
 
-Why is Japanese bad at English?
+Why is Japan bad at English?
 * because we use Japanese for 16 hours/day. And almost zero English.
 
 You can't use both; if you want to be good at English, you have to allocate your time to English.
 
 ---
 
-### Change your mind language to English
+### Change your internal monologue to English
 
 We are talking Japanese in our brains all day.  
 Change it to English. By doing only that, you can allocate a lot of time to English.  
@@ -19,7 +19,7 @@ When you feel "お腹減った", say "I'm hungry" in your mind.
 
 ---
 
-### How to change your mind language to English
+### How to change your internal monologue to English
 
 Practice "frequently used phrase."  
 https://www.englishspeak.com/en/english-phrases  
@@ -38,7 +38,7 @@ In Japanese English education, these are handled as peers.
 
 But the most important thing is speaking.
 1. It increases the English usage time massively.
-2. Mind language change is the most important aspect of language learning, and speaking(thinking) is required for it. 
+2. Internal monologue language change is the most important aspect of language learning, and speaking(thinking) is required for it. 
 3. What you can't speak, it's hard to hear.
 
 The next is listening.
@@ -47,7 +47,15 @@ The next is listening.
 
 ---
 
-### Forget about writing and reading.
+### Don't try to be good at English
+
+Trying to be perfect takes time and energy.  
+Just become a "terrible English user" first, in one month.  
+Even if your skill is not perfect, if you use it daily, it'll be naturally improved.
+
+---
+
+### Forget about Reading/Writing now. It'll become easier later.
 I know you want to be better at it.
 But it's like doing application without understanding of basics.
 
@@ -59,20 +67,20 @@ Why?
 
 ---
 
-### Forget about grammar and pronunciation
-It's just too slow and a waste of time.
-Why don't you need grammar
-1. Grammar can be covered by just practicing the "frequently used phrase".
-2. It's just useless in real English usage. When you talk(English or Japanese), you usually have to respond within around 1 second. There is no time to think about grammar.
+### Forget about pronunciation/grammar now. It'll become easier later.
 
-Pronunciation is useless unless you really need to be a professional English talker, like you want to become a caster.
+The reason you don't need grammar to become an English user.
+1. Grammar can be covered by just practicing the "frequently used phrase".
+2. It's not useful in real English usage. When you talk(English or Japanese), you usually have to respond within around 1 second. There is no time to think about grammar.
+
+The reason you don't need pronunciation to become an English user.
 1. Even European leaders (e.g., Jens Stoltenberg) have terrible pronunciation, but they are very respected. 
-2. It's very boring to practice. 
+2. It's very boring to practice.
 
 ---
 
 ### Enjoy what Americans enjoy
-For example, go to Reddit. This is American American-origin SNS. 
+For example, go to Reddit. This is American-origin SNS. 
 * https://www.reddit.com/r/all/
 It's English, but many of the popular post is simple image or just a few sentences.  
 You can enjoy without understanding English. And if you enjoy it, you will like it, and you will start understanding English naturally.   
@@ -98,7 +106,7 @@ Avoid the Japanese language as much as possible.
 ### So, what should you do now?
 
 1. Buy cheap portable audio players. You want to have 2 of them to avoid downtime.
-    * It's important because smartphones are slow, big, and expensive. You want to simple tool.  
+    * It's important because smartphones are a distraction machine. You want simple tools dedicated to language learning.  
 2. Download the frequently used phrase and put it into your audio player (for example, https://www.englishspeak.com/en/english-phrases)
 3. When you wake up, you start listening.
 
@@ -112,5 +120,3 @@ Avoid the Japanese language as much as possible.
 4. Extract the part of the audio (lines) using the time stamp of the subtitle file by Python.
 5. Now you've got your favorite TV series' phrases for practice.
 
-
-tran
