@@ -1,5 +1,5 @@
 # How to become an English user.
-for Takekawa Sensei's students.
+For Takekawa Sensei's students.
 
 ### Why are Americans good at English?
 * because they use English 16 hours/day.
@@ -76,10 +76,10 @@ For example, go to Reddit. This is American American-origin SNS.
 * https://www.reddit.com/r/all/
 It's English, but many of the popular post is simple image or just a few sentences.  
 You can enjoy without understanding English. And if you enjoy it, you will like it, and you will start understanding English naturally.   
-Watch YouTube, listen Audiobook, or anything that Americans do.
+Watch YouTube, listen Audiobook, or do anything that Americans do.
 
 * Google provides high-quality AI for free; it's for developers, but anyone can use it. https://aistudio.google.com/prompts/new_chat
-    . You can talk with it in English. Next time you search something, ask the AI in English.
+    . You can talk with it in English. Next time you search for something, ask the AI in English.
 
 ---
 
@@ -87,7 +87,7 @@ Watch YouTube, listen Audiobook, or anything that Americans do.
 
 When you physically see Japanese, you should consider if it can be replaced in English.  
 You watch YouTube in English.  
-You watch Anime, use English voice. Play game in English. Read manga in English.  
+You watch Anime, use English voice. Play a game in English. Read manga in English.  
 Change OS to English.  
 Just pretend you're American from today.  
 
@@ -104,10 +104,13 @@ Avoid the Japanese language as much as possible.
 
 ---
 
-### Bonus: Other way to get natural phrases
+### Bonus: Another way to get natural phrases
 
 1. Find your favorite TV series,
 2. Download the video and subtitle file.
 3. Extract audio from the video
 4. Extract the part of the audio (lines) using the time stamp of the subtitle file by Python.
 5. Now you've got your favorite TV series' phrases for practice.
+
+
+tran
