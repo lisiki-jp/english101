@@ -50,6 +50,7 @@ https://www.englishspeak.com/en/english-phrases
 
 次に重要なのがリスニングです。
 1. これも英語の使用時間を大幅に増やします。
+2. 英語コンテンツを楽しんでれば勝手に上達します。
 
 ---
 
