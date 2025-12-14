@@ -9,11 +9,15 @@ Why is Japanese bad at English?
 
 You can't use both; if you want to be good at English, you have to allocate your time to English.
 
+---
+
 ### Change your mind language to English
 
 We are talking Japanese in our brains all day.  
 Change it to English. By doing only that, you can allocate a lot of time to English.  
 When you feel "お腹減った", say "I'm hungry" in your mind.
+
+---
 
 ### How to change your mind language to English
 
@@ -25,6 +29,7 @@ English is a sport, not a school subject.
 
 Within a month, you will be able to speak simple English.
 
+---
 
 ### Speaking is the thing you should focus on
 
@@ -40,6 +45,8 @@ The next is listening.
 1. It also increases the English usage time massively.
 2. If you can't speak the phrase, it's likely you can't hear the phrase.
 
+---
+
 ### Forget about writing and reading.
 I know you want to be better at it.
 But it's like doing application without understanding of basics.
@@ -49,6 +56,8 @@ Why?
 2. Language is Speaking/Listening. Writing/Reading is an extra system of the language.
     * For example, the Japanese language got its writing system in the 4th century. Long before writing, people were speaking the language.
 3. It will not increase your English usage time effectively. Even Americans can't read and write for 16 hours a day. They can think(speaking in mind) or listen to English 16 hours a day.
+
+---
 
 ### Forget about grammar and pronunciation
 It's just too slow and a waste of time.
@@ -60,6 +69,8 @@ Pronunciation is useless unless you really need to be a professional English tal
 1. Even European leaders (e.g., Jens Stoltenberg) have terrible pronunciation, but they are very respected. 
 2. It's very boring to practice. 
 
+---
+
 ### Enjoy what Americans enjoy
 For example, go to Reddit. This is American American-origin SNS. 
 * https://www.reddit.com/r/all/
@@ -69,6 +80,8 @@ Watch YouTube, listen Audiobook, or anything that Americans do.
 
 * Google provides high-quality AI for free; it's for developers, but anyone can use it. https://aistudio.google.com/prompts/new_chat
     . You can talk with it in English. Next time you search something, ask the AI in English.
+
+---
 
 ### Replace Japanese with English
 
@@ -80,12 +93,16 @@ Just pretend you're American from today.
 
 Avoid the Japanese language as much as possible.
 
+---
+
 ### So, what should you do now?
 
 1. Buy cheap portable audio players. You want to have 2 of them to avoid downtime.
     * It's important because smartphones are slow, big, and expensive. You want to simple tool.  
 2. Download the frequently used phrase and put it into your audio player (for example, https://www.englishspeak.com/en/english-phrases)
 3. When you wake up, you start listening.
+
+---
 
 ### Bonus: Other way to get natural phrases
 
