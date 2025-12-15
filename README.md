@@ -113,6 +113,7 @@ YouTubeを見たり、オーディオブックを聞いたり、アメリカ人�
 
 * Googleが高品質なAIを無料で提供しています。開発者向けですが誰でも使えます。 [https://aistudio.google.com/prompts/new_chat](https://aistudio.google.com/prompts/new_chat)
     * そこで英語で会話できます。次に何か検索する時は、そのAIに英語で聞いてみましょう。
+    * AIを英語で言い負かすことができるようになれば、英語で議論ができる素地があなたに備わったと思っていいでしょう。
 
 ---
 
