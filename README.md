@@ -1,122 +1,145 @@
-# How to become an English user.
-For Takekawa Sensei's students.
+# 英語ユーザーになる方法
+by 伊波りしき  
+日本人の大学生向けに書きました。（単語力4000以上想定、日常会話に十分な単語力で単語学習必要なし。）
 
-### Why are Americans good at English?
-* because they use English 16 hours/day.
+### なぜアメリカ人は英語が得意なのか？
+* それは、彼らが1日16時間英語を使っているからです。
 
-Why is Japan bad at English?
-* because we use Japanese for 16 hours/day. And almost zero English.
+なぜ日本は英語が苦手なのか？
+* それは、私たちが1日16時間日本語を使っているからです。そして英語はほぼゼロです。
 
-You can't use both; if you want to be good at English, you have to allocate time to English.
-
----
-
-### Change your internal monologue to English
-
-We are talking Japanese in our brains all day.  
-Change it to English. By doing only that, you can allocate a lot of time to English.  
-When you feel "お腹減った", say "I'm hungry" in your mind.
+両方を同時に使うことはできません。もし英語がうまくなりたければ、時間を英語に割り当てる必要があります。
 
 ---
 
-### How to change your internal monologue to English
+### 脳内の「独り言」を英語に変える
 
-Practice "frequently used phrase."  
-https://www.englishspeak.com/en/english-phrases  
-Download. Put every audio file and put it into your music player.   
-Listen and speak what you heard.  
-English is a sport, not a school subject.
-
-Within a month, you will be able to speak simple English.
+私たちは一日中、脳内で日本語を話しています。
+それを英語に変えてください。それだけで、大量の時間を英語に充てることができます。
+「お腹減った」と感じたら、心の中で "I'm hungry" と言ってみるのです。
 
 ---
 
-### Speaking is the thing you should focus on
+### どうやって脳内の独り言を英語に変えるか
 
-Speaking, Listening, Writing, Reading.  
-In Japanese English education, these are handled as peers.
+「よく使われるフレーズ」を練習しましょう。
+https://www.englishspeak.com/en/english-phrases
+ここからダウンロードし、すべての音声ファイルを音楽プレーヤーに入れてください。
+聞いて、聞こえた通りに話す（シャドーイングする）のです。
+英語はスポーツです。学校の教科ではありません。
 
-But the most important thing is speaking.
-1. It increases the English usage time massively.
-2. Internal monologue language change is the most important aspect of language learning, and speaking(thinking) is required for it. 
-3. What you can't speak, it's hard to hear.
-
-The next is listening.
-1. It also increases the English usage time massively.
-2. If you can't speak the phrase, it's likely you can't hear the phrase.
+1ヶ月もすれば、簡単な英語を話せるようになります。
 
 ---
 
-### Don't try to be good at English
+### 英語を「システム１」で処理する。
 
-Trying to be perfect takes time and energy.  
-Just become a "terrible English user" first, in one month.  
-Even if your skill is not perfect, if you use it daily, it'll be naturally improved.
-
----
-
-### Forget about Reading/Writing now. It'll become easier later.
-I know you want to be better at it.
-But it's like doing application without understanding of basics.
-
-Why?
-1. The human brain is not adapted to read/write effectively. It's difficult for us.
-2. Language is Speaking/Listening. Writing/Reading is an extra system of the language.
-    * For example, the Japanese language got its writing system in the 4th century. Long before writing, people were speaking the language.
-3. It will not increase your English usage time effectively. Even Americans can't read and write for 16 hours a day. They can think(speaking in mind) or listen to English 16 hours a day.
+あなたが英語を使わない理由は、カーネマンのいう「システム２」を使って大量のエネルギーを消費しているからです。
+英語をあなたの「システム１」で処理できるように体にしみこませれば、楽に英語を扱えるようになります。
 
 ---
 
-### Forget about pronunciation/grammar now. It'll become easier later.
+### 注力すべきは「スピーキング」
 
-The reason you don't need grammar to become an English user.
-1. Grammar can be covered by just practicing the "frequently used phrase".
-2. It's not useful in real English usage. When you talk(English or Japanese), you usually have to respond within around 1 second. There is no time to think about grammar.
+スピーキング（話す）、リスニング（聞く）、ライティング（書く）、リーディング（読む）。
+日本の英語教育では、これらは同列に扱われています。
 
-The reason you don't need pronunciation to become an English user.
-1. Even European leaders (e.g., Jens Stoltenberg) have terrible pronunciation, but they are very respected. 
-2. It's very boring to practice.
+しかし、最も重要なのはスピーキングです。
+1. 英語の使用時間が圧倒的に増えるからです。
+2. 「脳内言語の切り替え」が言語学習において最も重要であり、それにはスピーキング（思考）が必要だからです。
+3. 話せない言葉は、聞き取るのも難しいからです。
+
+次に重要なのがリスニングです。
+1. これも英語の使用時間を大幅に増やします。
+2. 英語コンテンツを楽しんでれば勝手に上達します。
 
 ---
 
-### Enjoy what Americans enjoy
-For example, go to Reddit. This is American-origin SNS. 
+### 「英語が得意」になろうとしないでください
+
+完璧を目指すのは時間とエネルギーの無駄です。
+まずは1ヶ月で「下手な英語ユーザー」になってください。
+スキルが完璧でなくても、毎日使っていれば勝手に上達します。
+
+---
+
+### ライティングとリーディングは今は忘れなさい。後で楽になります。
+
+上達したい気持ちはわかります。
+でも、それは基礎を理解せずに応用問題を解くようなものです。
+
+なぜか？
+1. 人間の脳は、読み書きを効率的に行うようには適応していません。私たちにとってそれは難しいことなのです。
+2. 言語とは「話す・聞く」ものです。読み書きは言語の「拡張システム」に過ぎません。
+    * 例えば、日本語が文字体系を持ったのは4世紀のことです。文字ができる遥か昔から、人々は言葉を話していました。
+3. 英語の使用時間を効果的に増やせません。アメリカ人でさえ、1日16時間読み書きすることは不可能です。でも、彼らは1日16時間考えたり（脳内で話したり）、聞いたりすることはできます。
+
+---
+
+### 文法と発音も今は忘れなさい。後で楽になります。
+
+英語ユーザーになるのに文法がいらない理由：
+1. 文法は「よく使うフレーズ」を練習するだけでカバーできます。
+2. 実際にはほぼ役に立ちません。話す時（英語でも日本語でも）、通常1秒以内に反応しなければなりません。読むときも聞くときも一緒です。文法について考えている暇はないのです。書くときは役に立ちますが、文法修正アプリを使用したほうが正確です。アメリカ人でさえ完璧に文法は扱えないのです。
+3. **カーネマンの言う「システム2」と同じで、脳のエネルギーを大量に消費するため、結局は使わなくなります。**
+
+英語ユーザーになるのに発音がいらない理由：
+1. ヨーロッパのリーダーたち（イェンス・ストルテンベルグなど）も発音は酷いものですが、非常に尊敬されています。
+2. 練習がつまらないからです。
+
+---
+
+### 発音について知るべきことは一つだけ。
+
+音節（シラブル）です。
+例えば、イエス(Yes)は日本人の感覚だと3音節ですが、英語では1音節です。
+これを意識するだけでもリスニングとスピーキングが格段に上達します。
+音節のルールはありますが、実際には結構みんな適当です。英語にスぺリングのルールもありませんし。
+最初はあまり気にせず、一単語は一音のつもりで英語に触れてみてください。
+
+---
+
+### アメリカ人が楽しんでいるものを楽しむ
+
+例えば、Redditに行ってみましょう。これはアメリカ発のSNSです。
 * https://www.reddit.com/r/all/
-It's English, but many of the popular post is simple image or just a few sentences.  
-You can enjoy without understanding English. And if you enjoy it, you will like it, and you will start understanding English naturally.   
-Watch YouTube, listen Audiobook, or do anything that Americans do.
+英語ですが、人気投稿の多くはシンプルな画像か、短い文章だけです。
+英語がわからなくても楽しめます。そして楽しんでいれば好きになり、自然と英語がわかるようになります。
+YouTubeを見たり、オーディオブックを聞いたり、アメリカ人がすることを何でもやってみましょう。
 
-* Google provides high-quality AI for free; it's for developers, but anyone can use it. https://aistudio.google.com/prompts/new_chat
-    . You can talk with it in English. Next time you search for something, ask the AI in English.
-
----
-
-### Replace Japanese with English
-
-When you physically see Japanese, you should consider if it can be replaced in English.  
-You watch YouTube in English.  
-You watch Anime, use English voice. Play a game in English. Read manga in English.  
-Change OS to English.  
-Just pretend you're American from today.  
-
-Avoid the Japanese language as much as possible.
+* Googleが高品質なAIを無料で提供しています。開発者向けですが誰でも使えます。 https://aistudio.google.com/prompts/new_chat
+    * そこで英語で会話できます。次に何か検索する時は、そのAIに英語で聞いてみましょう。
 
 ---
 
-### So, what should you do now?
+### 日本語を英語に置き換える
 
-1. Buy cheap portable audio players. You want to have 2 of them to avoid downtime.
-    * It's important because smartphones are a distraction machine. You want simple tools dedicated to language learning.  
-2. Download the frequently used phrase and put it into your audio player (for example, https://www.englishspeak.com/en/english-phrases)
-3. When you wake up, you start listening.
+物理的に日本語が目に入ったら、それを英語に置き換えられないか考えてください。
+YouTubeは英語で見る。
+アニメは英語音声で見る。ゲームは英語でプレイする。漫画は英語で読む。
+OS（スマホやPCの設定）を英語に変える。
+今日からアメリカ人のふりをしてください。
+
+できる限り日本語を避けてください。
 
 ---
 
-### Bonus: Another way to get natural phrases
+### さあ、今何をすべきか？
 
-1. Find your favorite TV series,
-2. Download the video and subtitle file.
-3. Extract audio from the video
-4. Extract the part of the audio (lines) using the time stamp of the subtitle file by Python.
-5. Now you've got your favorite TV series' phrases for practice.
+1. **安いポータブルオーディオプレーヤーを買ってください。** 充電切れ（ダウンタイム）を防ぐために2台持っておきたいところです。
+    * これは重要です。なぜなら**スマートフォンは「気が散るマシン」だからです。** 言語学習に特化したシンプルな道具が必要です。
+2. よく使うフレーズをダウンロードして、オーディオプレーヤーに入れてください。（例：https://www.englishspeak.com/en/english-phrases）
+3. 朝起きたら、すぐに聞き始めてください。心の中で聞いたフレーズを繰り返すか、実際に声に出してもいいです（起きたばかりはのどを痛めますが）。
+4. ポケットに入れて、できるだけ英語に触れ続けましょう。
 
+---
+
+### おまけ：自然なフレーズを手に入れる別の方法
+
+1. お気に入りの海外ドラマを見つける。
+2. 動画と字幕ファイルをダウンロードする。
+3. 動画から音声を抽出する。
+4. Python等を使い、字幕ファイルのタイムスタンプに合わせて音声の一部（セリフ）を切り出す。
+5. これで、練習用のお気に入りドラマのフレーズ集の完成です。
+
+---
