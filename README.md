@@ -27,7 +27,7 @@ by 伊波りしき
 ### どうやって脳内の独り言を英語に変えるか
 
 「よく使われるフレーズ」を練習しましょう。
-https://www.englishspeak.com/en/english-phrases
+[https://www.englishspeak.com/en/english-phrases](https://www.englishspeak.com/en/english-phrases)
 ここからダウンロードし、すべての音声ファイルを音楽プレーヤーに入れてください。
 聞いて、聞こえた通りに話す（シャドーイングする）のです。
 英語はスポーツです。学校の教科ではありません。
@@ -106,12 +106,12 @@ https://www.englishspeak.com/en/english-phrases
 ### アメリカ人が楽しんでいるものを楽しむ
 
 例えば、Redditに行ってみましょう。これはアメリカ発のSNSです。
-* https://www.reddit.com/r/all/
+* [https://www.reddit.com/r/all/](https://www.reddit.com/r/all/)
 英語ですが、人気投稿の多くはシンプルな画像か、短い文章だけです。
 英語がわからなくても楽しめます。そして楽しんでいれば好きになり、自然と英語がわかるようになります。
 YouTubeを見たり、オーディオブックを聞いたり、アメリカ人がすることを何でもやってみましょう。
 
-* Googleが高品質なAIを無料で提供しています。開発者向けですが誰でも使えます。 https://aistudio.google.com/prompts/new_chat
+* Googleが高品質なAIを無料で提供しています。開発者向けですが誰でも使えます。 [https://aistudio.google.com/prompts/new_chat](https://aistudio.google.com/prompts/new_chat)
     * そこで英語で会話できます。次に何か検索する時は、そのAIに英語で聞いてみましょう。
 
 ---
@@ -132,7 +132,7 @@ OS（スマホやPCの設定）を英語に変える。
 
 1. **安いポータブルオーディオプレーヤーを買ってください。** 充電切れ（ダウンタイム）を防ぐために2台持っておきたいところです。
     * これは重要です。なぜなら**スマートフォンは「気が散るマシン」だからです。** 言語学習に特化したシンプルな道具が必要です。
-2. 「よく使われるフレーズ」をダウンロードして、オーディオプレーヤーに入れてください。（例：https://www.englishspeak.com/en/english-phrases）
+2. 「よく使われるフレーズ」をダウンロードして、オーディオプレーヤーに入れてください。（例：[https://www.englishspeak.com/en/english-phrases](https://www.englishspeak.com/en/english-phrases)）
 3. 朝起きたら、すぐに聞き始めてください。心の中で聞いたフレーズを繰り返すか、実際に声に出してもいいです（起きたばかりはのどを痛めますが）。
 4. ポケットに入れて、できるだけ英語に触れ続けましょう。
 
