@@ -30,7 +30,7 @@ by 伊波りしき
 [https://www.englishspeak.com/en/english-phrases](https://www.englishspeak.com/en/english-phrases)
 ここからダウンロードし、すべての音声ファイルを音楽プレーヤーに入れてください。
 聞いて、聞こえた通りに話す（シャドーイングする）のです。
-英語はスポーツです。学校の教科ではありません。
+英語はスポーツです。勉強ではありません。
 
 1ヶ月もすれば、簡単な英語を話せるようになります。
 
