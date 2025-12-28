@@ -147,12 +147,12 @@ by りしき
 
 シラブルは音ですが、それを大きく超えた重要性を持ちます。
 文の総シラブルが少ないものほど、自然で、理解が容易で、伝わりやすく、記憶に残りやすい文になります。
-たとえば、"計算をした" は "I did the calculation" と表現できますが、"I did the math" が自然な表現です。
-それだけでなく、I did the math は I calculated よりも短い総シラブルを持ちます。だからこの表現はよく使われるのです。
+たとえば、"計算をした" は "I did the math" が自然な表現です。 "I did the calculation" はあまり使われません。シラブルが長すぎるためです。(4 vs. 7)
+それだけでなく、I did the math は I calculated よりも短い総シラブル (4 vs. 5) を持ちます。だからこの表現はよく使われるのです。
 自然な、伝わる英語を身に着けたいときは、シラブルは非常に重要です。
 
-- 7 シラブル: I did the calculation
 - 4 シラブル: I did the math
+- 7 シラブル: I did the calculation
 - 5 シラブル: I calculated 
 
 ---
