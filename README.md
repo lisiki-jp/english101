@@ -180,6 +180,8 @@ by りしき
 #### 2. Bohemian Rhapsody – Queen ([youtube](https://www.youtube.com/watch?v=fJ9rUzIMcZQ)) ([歌詞](https://genius.com/Queen-bohemian-rhapsody-lyrics))
 この曲は多くの複数シラブル単語を使います。"reality"(re·al·i·ty)は4音で構成されています。(ネイティブは複数シラブル単語を避けます、realityとしゃべる間に単シラブル単語を4つ言えるので、realityは非効率な単語です。)
 
+##### おまけ: オフラインで大量のテキストをシラブル化したい人向けpythonスクリプト
+[https://github.com/l1siki/english101/raw/refs/heads/main/syllabify_all_txt_incl_subfolders.py](https://github.com/l1siki/english101/raw/refs/heads/main/syllabify_all_txt_incl_subfolders.py)
 ---
 ### アメリカ人が楽しんでいるものを楽しむ
 
