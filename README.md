@@ -160,7 +160,7 @@ by りしき
 
 [syllabify_all_txt_incl_subfolders.py](https://github.com/l1siki/english101/blob/main/syllabify_all_txt_incl_subfolders.py)
 
-英語を歌うことは、英語特有のリズムや「シラブル（音節）」を学ぶのに最適です。
+シラブルを意識して英語を歌うことは、英語特有のリズムや「シラブル（音節）」を学ぶのに最適です。
 上記スクリプトはテキストファイル(サブフォルダ含む)をシラブルで分割します。下記は有名曲の出だしのサンプルです。
 
 「·」がシラブルの分割点です。
