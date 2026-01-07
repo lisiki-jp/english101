@@ -8,11 +8,10 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=genius.com
 // @grant        none
 // @run-at       document-end
-// @require      https://cdnjs.cloudflare.com/ajax/libs/hypher/0.2.5/hypher.js
+// @require      https://cdn.jsdelivr.net/npm/hypher@0.2.5/dist/jquery.hypher.js
 // @require      https://cdn.jsdelivr.net/gh/bramstein/hyphenation-patterns/dist/browser/en-us.js
 // @updateURL    https://github.com/l1siki/english101/raw/refs/heads/main/syllabify-lyrics-genius.com.user.js
 // @downloadURL  https://github.com/l1siki/english101/raw/refs/heads/main/syllabify-lyrics-genius.com.user.js
-
 // ==/UserScript==
 
 (function() {
@@ -41,7 +40,7 @@
             // Only process if it has content and isn't a metadata tag [Chorus]
             if (text.trim().length > 0) {
                 if (text.trim().startsWith('[') && text.trim().endsWith(']')) return;
-                
+
                 // Prevent double processing if the separator is already there
                 if (text.includes(VISUAL_SEPARATOR)) return;
 
@@ -74,7 +73,7 @@
     });
 
     observer.observe(document.body, { childList: true, subtree: true });
-    
+
     // Initial Run
     setTimeout(runSyllabifier, 1000);
 
