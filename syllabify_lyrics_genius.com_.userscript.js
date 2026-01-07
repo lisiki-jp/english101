@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.1
 // @description  Converts lyrics on Genius.com into syllables separated by a middle dot
-// @author       You
+// @author       lisiki
 // @match        https://genius.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=genius.com
 // @grant        none
