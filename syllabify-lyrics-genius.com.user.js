@@ -4,7 +4,7 @@
 // @downloadURL  https://github.com/l1siki/english101/raw/refs/heads/main/syllabify-lyrics-genius.com.user.js
 // @name         Genius.com - Syllabify Lyrics
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.2
 // @description  Converts lyrics on Genius.com into syllables separated by a middle dot
 // @match        https://genius.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=genius.com
