@@ -169,17 +169,7 @@ by りしき
 
 *(Note: Lyrics are used for educational analysis only.)*
 
-#### 1. Bohemian Rhapsody – Queen
-この曲は多くの複数シラブル単語を使います。"reality"(re·al·i·ty)は4音で構成されています。(ネイティブは複数シラブル単語を避けます、realityとしゃべる間に単シラブル単語を4つ言えるので、realityは非効率な単語です。)
-
-```text
-Is this the re·al life? Is this just fan·ta·sy?
-Caught in a land·slide, no es·cape from re·al·i·ty
-Open your eyes, look up to the skies and see
-I'm just a poor boy, I need no sym·pa·thy ...
-```
-
-#### 2. Shake it Off – Taylor Swift
+#### 1. Shake it Off – Taylor Swift ([youtube](https://www.youtube.com/watch?v=nfWlot6h_JM))
 これは究極の「自然」な英語の曲です
 ネイティブの会話のほとんどは、このように1シラブルの単語（Monosyllables）の連続です。
 単語をつなげて、パーカッションのように歌うのがコツです。
@@ -190,6 +180,17 @@ Got noth·in' in my brain
 That's what peo·ple say, mm-mm
 That's what peo·ple say, mm-mm ...
 ```
+
+#### 2. Bohemian Rhapsody – Queen ([youtube](https://www.youtube.com/watch?v=fJ9rUzIMcZQ))
+この曲は多くの複数シラブル単語を使います。"reality"(re·al·i·ty)は4音で構成されています。(ネイティブは複数シラブル単語を避けます、realityとしゃべる間に単シラブル単語を4つ言えるので、realityは非効率な単語です。)
+
+```text
+Is this the re·al life? Is this just fan·ta·sy?
+Caught in a land·slide, no es·cape from re·al·i·ty
+Open your eyes, look up to the skies and see
+I'm just a poor boy, I need no sym·pa·thy ...
+```
+
 
 ---
 ### アメリカ人が楽しんでいるものを楽しむ
