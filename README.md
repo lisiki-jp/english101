@@ -1,4 +1,4 @@
-[https://lisiki-jp.github.io/english101/](https://lisiki-jp.github.io/english101/)
+[https://l1siki.github.io/english101/](https://l1siki.github.io/english101/)
 
 # 30日で英語ユーザーになる方法
 1日10フレーズ x 30日 = 300フレーズ。日常会話の80%をカバーできる量。英語思考ができる。
@@ -156,7 +156,42 @@ by りしき
 - 5 シラブル: I calculated 
 
 ---
+### 🎵 シラブルを意識して英語の歌を歌ってみよう
 
+[syllabify_all_txt_incl_subfolders.py](https://github.com/l1siki/english101/blob/main/syllabify_all_txt_incl_subfolders.py)
+
+英語を歌うことは、英語特有のリズムや「シラブル（音節）」を学ぶのに最適です。
+上記スクリプトはテキストファイル(サブフォルダ含む)をシラブルで分割します。下記は有名曲の出だしのサンプルです。
+
+「·」がシラブルの分割点です。
+例えば、**"real" (re·al)** は2音ですが、**"life"** は1音です。
+このリズムを意識するだけで、英語の発音が劇的にネイティブに近づきます。
+
+*(Note: Lyrics are used for educational analysis only.)*
+
+#### 1. Bohemian Rhapsody – Queen
+この曲は多くの複数シラブル単語を使います。"reality"(re·al·i·ty)は4音で構成されています。(ネイティブは複数シラブル単語を避けます、realityとしゃべる間に単シラブル単語を4つ言えるので、realityは非効率な単語です。)
+
+```text
+Is this the re·al life? Is this just fan·ta·sy?
+Caught in a land·slide, no es·cape from re·al·i·ty
+Open your eyes, look up to the skies and see
+I'm just a poor boy, I need no sym·pa·thy ...
+```
+
+#### 2. Shake it Off – Taylor Swift
+これは究極の「自然」な英語の曲です
+ネイティブの会話のほとんどは、このように1シラブルの単語（Monosyllables）の連続です。
+単語をつなげて、パーカッションのように歌うのがコツです。
+
+```text
+I stay out too late
+Got noth·in' in my brain
+That's what peo·ple say, mm-mm
+That's what peo·ple say, mm-mm ...
+```
+
+---
 ### アメリカ人が楽しんでいるものを楽しむ
 
 例えば、Redditに行ってみましょう。これはアメリカ発のSNSです。
@@ -185,7 +220,7 @@ YouTubeは英語で見る。
 
 ---
 
-### 英語を思い起こすものを生活に取り入れる「プライミング」を利用する。
+### 「プライミング」を利用するため、英語を思い起こすものを生活に取り入れる。
 
 例えば、英語の本をデスクの上に置くだけで、それが目に入るたびにあなたは英語のことを思い出します。
 これは「プライミング効果」といわれ、「連想させること」といった意味を持ちます。
@@ -193,6 +228,14 @@ YouTubeは英語で見る。
 
 この認知効果を利用すれば、脳の認知バイアスを利用して、自然に英語時間を増やせます。
 もっとも強力なものは、後述する方法を使って「一日中英語音声を聞いている環境」で常時プライミングします。
+
+
+---
+
+### 「プライミング」を利用するため、日本語を生活から隠す。
+
+日本語、あるいはあなたに何か日本語を思い出させるものは英語時間を奪います。
+生活の中で目に入る日本語、あるいは日本語を呼び起こさせるものは隠してください。
 
 ---
 
