@@ -158,39 +158,27 @@ by りしき
 ---
 ### 🎵 シラブルを意識して英語の歌を歌ってみよう
 
-[syllabify_all_txt_incl_subfolders.py](https://github.com/l1siki/english101/blob/main/syllabify_all_txt_incl_subfolders.py)
-
 シラブルを意識して英語を歌うことは、英語特有のリズムや「シラブル（音節）」を学ぶのに最適です。
-上記スクリプトはテキストファイル(サブフォルダ含む)をシラブルで分割します。下記は有名曲の出だしのサンプルです。
+
+準備（userscriptを使ってgenius.comの英語歌詞をシラブル化する。）
+1. Install a userscript manager:
+   - [Tampermonkey for Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+   - [Tampermonkey for Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
+
+2. **[CLICK HERE TO INSTALL THE SCRIPT](https://github.com/l1siki/english101/raw/refs/heads/main/syllabify-lyrics-genius.com.user.js)**
 
 「·」がシラブルの分割点です。
-例えば、**"real" (re·al)** は2音ですが、**"life"** は1音です。
+例えば、**"real" (re·al)** は2音ですが、**"this"** は1音です。
 このリズムを意識するだけで、英語の発音が劇的にネイティブに近づきます。
 
-*(Note: Lyrics are used for educational analysis only.)*
+#### 1. Shake it Off – Taylor Swift ([youtube](https://www.youtube.com/watch?v=nfWlot6h_JM)) ([歌詞](https://genius.com/Taylor-swift-shake-it-off-lyrics))
 
-#### 1. Shake it Off – Taylor Swift ([youtube](https://www.youtube.com/watch?v=nfWlot6h_JM))
-これは究極の「自然」な英語の曲です
+これは究極の「自然」な英語の曲です。
 ネイティブの会話のほとんどは、このように1シラブルの単語（Monosyllables）の連続です。
 単語をつなげて、パーカッションのように歌うのがコツです。
 
-```text
-I stay out too late
-Got noth·in' in my brain
-That's what peo·ple say, mm-mm
-That's what peo·ple say, mm-mm ...
-```
-
-#### 2. Bohemian Rhapsody – Queen ([youtube](https://www.youtube.com/watch?v=fJ9rUzIMcZQ))
+#### 2. Bohemian Rhapsody – Queen ([youtube](https://www.youtube.com/watch?v=fJ9rUzIMcZQ)) ([歌詞](https://genius.com/Queen-bohemian-rhapsody-lyrics))
 この曲は多くの複数シラブル単語を使います。"reality"(re·al·i·ty)は4音で構成されています。(ネイティブは複数シラブル単語を避けます、realityとしゃべる間に単シラブル単語を4つ言えるので、realityは非効率な単語です。)
-
-```text
-Is this the re·al life? Is this just fan·ta·sy?
-Caught in a land·slide, no es·cape from re·al·i·ty
-Open your eyes, look up to the skies and see
-I'm just a poor boy, I need no sym·pa·thy ...
-```
-
 
 ---
 ### アメリカ人が楽しんでいるものを楽しむ
