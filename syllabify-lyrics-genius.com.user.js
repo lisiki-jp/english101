@@ -8,6 +8,9 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=genius.com
 // @grant        none
 // @run-at       document-end
+// @updateURL    https://github.com/l1siki/english101/raw/refs/heads/main/syllabify-lyrics-genius.com.user.js
+// @downloadURL  https://github.com/l1siki/english101/raw/refs/heads/main/syllabify-lyrics-genius.com.user.js
+
 // ==/UserScript==
 
 (function() {
