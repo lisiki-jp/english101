@@ -146,6 +146,7 @@ by りしき
 > Students: Make up roughly 35% of the user base.
 Professionals: The fastest-growing segment, now heavily targeted by their "Grammarly Business" and "Grammarly Go" (AI) initiatives.
 
+Grammarlyユーザーのほとんどはプロフェッショナルです。
 プロであるほどツールに頼ります。逐一、文法を確認してる時間がないので。
 
 ちなみにきちんとしすぎた文法はSNS上ではかっこわるいので（Twitterで役所みたいな日本語使う人がかっこ悪いのと同じ。）、
