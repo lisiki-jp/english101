@@ -143,6 +143,9 @@ by りしき
 文法とは「きちんとした文を書くためのルール」です。
 そしてきちんとした文を書くときはネイティブはツールに頼ります。
 
+> Students: Make up roughly 35% of the user base.
+Professionals: The fastest-growing segment, now heavily targeted by their "Grammarly Business" and "Grammarly Go" (AI) initiatives.
+
 プロであるほどツールに頼ります。逐一、文法を確認してる時間がないので。
 
 ちなみにきちんとしすぎた文法はSNS上ではかっこわるいので（Twitterで役所みたいな日本語使う人がかっこ悪いのと同じ。）、
@@ -174,9 +177,6 @@ by りしき
 
 これはAIの時代になっても同じです。結局、実際にあなたの意図した文章になっているかどうかは、あなたにしかわかりません。
 AIは非常に便利(執筆時間を大幅に短縮できる)ですが、最終確認はあなたにしかできません。
-
-
-
 
 ---
 
