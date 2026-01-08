@@ -221,6 +221,7 @@ AIは非常に便利(執筆時間を大幅に短縮できる)ですが、最終�
 > **「·」がシラブルの分割点です。**
 > 例：**"real" (re·al)** は2音、**"this"** は1音。
 > このリズムを意識するだけで、発音が劇的にネイティブに近づきます。
+> 日本語で表現すると「り‣あぅ」と「でぃㇲ」です。「L」はたいてい小さい「ぅ」と発音します。Thisは一息で、最後のsはほとんど発音しない小さなㇲだと思って発音してみてください。
 
 **1. Shake it Off – Taylor Swift**
 [YouTube](https://www.youtube.com/watch?v=nfWlot6h_JM) / [歌詞](https://genius.com/Taylor-swift-shake-it-off-lyrics)
